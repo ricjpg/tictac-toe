@@ -25,3 +25,16 @@ body {
     text-wrap: balance;
   }
 }
+/* 
+button{
+  
+} */
+
+.square{
+  border-color: #0a0a0a;
+  border-width: 1px;
+  width: 30px;
+  height: 30px;
+  /* text-align: center; */
+  
+}
